@@ -7,3 +7,6 @@ Major / program: MS DSA
 Favorite dataset or industry interest: Operations Excellence and Supply Chain
 
 One reason I am studying analytics: To better gather and understand data to help make informed decisions to improve industry operations and efficiency.
+
+Why version control matters for analytics:
+Version control is crucial for analytics due to traceability if a mistake is made. This also allows for multiple individuals to work on the same project without jeopardizing the entire project. If a bug is entered in one version, ability to revert to a previous functional version is critical. Creating new branches of code help teams work more efficiently while maintain integrity to the original source.
